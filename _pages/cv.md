@@ -9,51 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
+Affiliation
+======
+* December 2021-present: Assistant Professor
+   * Institute for Advanced Economic Research, Dongbei University of Finance and Economics
+
+
+Research Interests
+======
+* Game Theory
+* Experimental Economics
+* Behavioral Economics
+* Industrial Organization
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, University of California Santa Cruz, 2016-2021
+* M.A. in Economics, University of Southern California, 2014-2016
+* B.A. in Economics, Zhejiang University, 2010-2014
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
+Research / Publications
+=======================
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Work experience
 ======
-* Currently signed in to 43 different slack teams
+* December 2021 - present: Assistant Professor
+   * Institute for Advanced Economic Research, Dongbei University of Finance and Economics
+
+* Summer 2017 - Spring 2021: Research Assistant, Learning and Experimental Economics Projects (LEEPS)
+   * University of California Santa Cruz
+
+* Spring 2017 - Spring 2021: Teaching Assistant, Economics Department
+   * University of California Santa Cruz
+
+
+Honors, Awards
+======
+* 2016 - 2021
+   * Dissertation Year Fellowship, $8,000, University of California Santa Cruz, 2020
+   * UCSC Teaching Assistant Award for Excellence in Teaching, University of California Santa Cruz, 2020
+   * Eileen Brooks Award, $2,000, University of California Santa Cruz, 2019
+   * UCSC Teaching Assistant Award for Excellence in Teaching, University of California Santa Cruz, 2019
+
+
+Grants
+======
+* 2016 - 2021
+   * Economics Ph.D. Research Award, $4,400, University of California Santa Cruz, 2020
+   * Call for Dissertation Research Grants, $3,600, University of California Santa Cruz, 2018
+
+
+Talks, Conferences, and Workshops
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
