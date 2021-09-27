@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuchen Zhao"
+title                    : "Home"
 title_separator          : "|"
 name                     : &name "Shuchen Zhao"
 description              : &description "Shuchen Zhao's Personal Academic Website"
