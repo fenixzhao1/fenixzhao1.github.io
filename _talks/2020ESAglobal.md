@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020ESAglobal
 venue: "Zoom"
-date: 2019-10-11
+date: 2020-09-10
 location: "Online"
 ---
