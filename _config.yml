@@ -85,10 +85,10 @@ author:
   bio              : "Assistant Professor at Institute for Advanced Economic Research, Dongbei University of Finance and Economics"
   location         :
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=cjz2wfQAAAAJ&hl=zh-CN"
   email            : fenix.zhaoshuchen@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/zhaoshuchen/
+  linkedin         : zhaoshuchen
   orcid            : "https://orcid.org/0000-0002-3453-0144"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "@fenix_shuchen"
