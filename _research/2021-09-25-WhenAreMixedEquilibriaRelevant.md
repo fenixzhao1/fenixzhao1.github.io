@@ -6,6 +6,7 @@ excerpt: ''
 date: 2021-09-25
 venue: 'Journal of Economic Behavior and Organization'
 paperurl: 'https://authors.elsevier.com/a/1dlsDc24axqRN'
+author: Daniel Friedman and Shuchen Zhao
 #citation: ''
 ---
 

@@ -6,6 +6,7 @@ excerpt: ''
 date: 2021-09-24
 venue: 'Available at SSRN'
 paperurl: 'https://ssrn.com/abstract=3930013'
+author: Daniel Friedman, Jean-Paul Rabanal, Olga A. Rud, and Shuchen Zhao
 #citation: ''
 ---
 

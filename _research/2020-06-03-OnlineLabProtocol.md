@@ -6,6 +6,7 @@ excerpt: ''
 date: 2020-06-03
 venue: 'Available at SSRN'
 paperurl: 'https://ssrn.com/abstract=3594027'
+author: Shuchen Zhao, Kristian López Vargas, Daniel Friedman, and Marco Gutierrez
 #citation: ''
 ---
 
