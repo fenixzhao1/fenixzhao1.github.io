@@ -6,9 +6,7 @@ excerpt: ''
 date: 2020-06-03
 venue: 'Available at SSRN'
 paperurl: 'https://ssrn.com/abstract=3594027'
-citation: ''
+#citation: ''
 ---
 
-<details><summary>Abstract</summary>
 This brief note describes the step-by-step protocol for conducting online economics experiments at the UCSC LEEPS Laboratory. This protocol assumes that the subject pool is managed using ORSEE (Greiner, 2015) and the experiment backend and interfaces are developed and deployed using oTree (Chen, et al 2016). The protocol covers from experiment creation on ORSEE platform to payment and receipts.
-</details>
