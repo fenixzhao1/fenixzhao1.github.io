@@ -11,3 +11,6 @@ author: Daniel Friedman, Jean-Paul Rabanal, Olga A. Rud, and Shuchen Zhao
 ---
 
 Can an efficient correlated equilibrium emerge without any exogenous benevolent agent providing coordinating signals? Theoretical work in adaptive dynamics suggests a positive answer, which we test in a laboratory experiment. In the well-known Chicken game, we observe time average play that is close to the asymmetric pure Nash equilibrium in some treatments, and in other treatments we observe collusive play. In a game resembling rock-paper-scissors or matching pennies, we observe time average play close to a correlated equilibrium that is more efficient than the unique Nash equilibrium. Estimates and simulations of adaptive dynamics capture much of the observed regularities.
+
+Keywords: Correlated equilibrium, Laboratory experiment, Adaptive dynamics.
+https://ssrn.com/abstract=3930013
