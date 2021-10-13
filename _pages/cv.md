@@ -46,7 +46,7 @@ Teaching
 
 Work experience
 ======
-* December 2021 - present: Assistant Professor
+* October 2021 - present: Assistant Professor
    * Institute for Advanced Economic Research, Dongbei University of Finance and Economics
 
 * Summer 2017 - Spring 2021: Research Assistant, Learning and Experimental Economics Projects (LEEPS)
