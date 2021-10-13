@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. graduate in Economics at the University of California, Santa Cruz. I will join Institute for Advanced Economic Research at Dongbei University of Finance and Economics in December 2021.
+Hi! My name is Shuchen Zhao. I am an Assistant Professor at Institute for Advanced Economic Research, Dongbei University of Finance and Economics.
 
 I have a wide range of research interests, including
 * Game Theory

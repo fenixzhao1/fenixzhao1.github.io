@@ -11,7 +11,7 @@ redirect_from:
 
 Affiliation
 ======
-* December 2021-present: Assistant Professor
+* October 2021-present: Assistant Professor
    * Institute for Advanced Economic Research, Dongbei University of Finance and Economics
 
 
