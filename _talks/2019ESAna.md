@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019ESAna
 venue: "Loyola Marymount University"
-date: 2019-10-11
+date: 2019-10
 location: "Los Angeles, California"
 ---

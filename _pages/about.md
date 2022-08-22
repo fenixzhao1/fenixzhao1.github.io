@@ -14,11 +14,12 @@ I have a wide range of research interests, including
 * Game Theory
 * Experimental Economics
 * Behavioral Economics
-* Industrial Organization
+* Behavioral Finance
+* Mechanism Design
 
 # Contact Info:
 Institute for Advanced Economic Research, Dongbei University of Finance and Economics
 
 217 Jianshan Street, Dalian, Liaoning 116025, The People’s Republic of China
 
-fenix.zhaoshuchen@gmail.com
+fenix.zhaoshuchen@dufe.edu.cn; fenix.zhaoshuchen@gmail.com

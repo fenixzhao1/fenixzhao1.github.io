@@ -20,7 +20,8 @@ Research Interests
 * Game Theory
 * Experimental Economics
 * Behavioral Economics
-* Industrial Organization
+* Behavioral Finance
+* Mechanism Design
 
 
 Education
@@ -46,7 +47,7 @@ Teaching
 
 Work experience
 ======
-* October 2021 - present: Assistant Professor
+* October 2021 - Present: Assistant Professor
    * Institute for Advanced Economic Research, Dongbei University of Finance and Economics
 
 * Summer 2017 - Spring 2021: Research Assistant, Learning and Experimental Economics Projects (LEEPS)
@@ -56,7 +57,7 @@ Work experience
    * University of California Santa Cruz
 
 
-Honors, Awards
+Honors and Awards
 ======
 * 2016 - 2021
    * Dissertation Year Fellowship, $8,000, University of California Santa Cruz, 2020
@@ -70,6 +71,12 @@ Grants
 * 2016 - 2021
    * Economics Ph.D. Research Award, $4,400, University of California Santa Cruz, 2020
    * Call for Dissertation Research Grants, $3,600, University of California Santa Cruz, 2018
+
+
+Referee
+=====
+* Economic Modelling
+* Journal of Neuroscience, Psychology, and Economics.
 
 
 Talks, Conferences, and Workshops

@@ -1,9 +1,9 @@
 ---
 title: "When Are Mixed Equilibria Relevant?"
 collection: research
-permalink: /research/2021-09-25-WhenAreMixedEquilibriaRelevant
+permalink: /research/2021-09-16-WhenAreMixedEquilibriaRelevant
 excerpt: ''
-date: 2021-09-25
+date: 2021-09-16
 venue: 'Journal of Economic Behavior and Organization'
 paperurl: 'https://authors.elsevier.com/a/1dlsDc24axqRN'
 author: Daniel Friedman and Shuchen Zhao
