@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020JobMarketCandidate
 venue: "Zoom"
-date: 2020-12
+date: 2020-12-15
 location: "Online"
 ---
