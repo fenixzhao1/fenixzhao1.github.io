@@ -5,7 +5,7 @@ permalink: /research/2022-08-22-OntheEmpiricalRelevanceofCorrelatedEquilibrium
 excerpt: ''
 date: 2022-08-22
 venue: 'Journal of Economic Theory'
-paperurl: 'https://authors.elsevier.com/a/1fdHT50waWCax'
+paperurl: 'https://doi.org/10.1016/j.jet.2022.105531'
 author: Daniel Friedman, Jean-Paul Rabanal, Olga A. Rud, and Shuchen Zhao
 status: published
 ---

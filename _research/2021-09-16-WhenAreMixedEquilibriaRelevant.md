@@ -5,7 +5,7 @@ permalink: /research/2021-09-16-WhenAreMixedEquilibriaRelevant
 excerpt: ''
 date: 2021-09-16
 venue: 'Journal of Economic Behavior and Organization'
-paperurl: 'https://authors.elsevier.com/a/1dlsDc24axqRN'
+paperurl: 'https://doi.org/10.1016/j.jebo.2021.08.031'
 author: Daniel Friedman and Shuchen Zhao
 status: published
 ---

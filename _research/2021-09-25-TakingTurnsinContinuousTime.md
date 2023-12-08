@@ -5,7 +5,7 @@ permalink: /research/2021-09-25-TakingTurnsinContinuousTime
 excerpt: ''
 date: 2021-09-25
 venue: 'Journal of Economic Behavior and Organization'
-paperurl: 'https://authors.elsevier.com/a/1dor4c24axqSQ'
+paperurl: 'https://doi.org/10.1016/j.jebo.2021.09.001'
 author: Shuchen Zhao
 status: published
 ---
