@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Shuchen Zhao CV](CV_Shuchen Zhao.pdf)
+[Download CV](CV_Shuchen Zhao.pdf)
