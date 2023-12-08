@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Shuchen Zhao. I am an Assistant Professor at Institute for Advanced Economic Research, Dongbei University of Finance and Economics.
+Hi! My name is Shuchen Zhao. I am an Associate Professor at Institute for Advanced Economic Research, Dongbei University of Finance and Economics.
 
 I have a wide range of research interests, including
-* Game Theory
+* Repeated Game Theory
 * Experimental Economics
 * Behavioral Economics
 * Behavioral Finance
