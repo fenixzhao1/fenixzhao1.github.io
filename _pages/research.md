@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div><h2> Publications </h2></div>
+<div><h1> Publications </h1></div>
 <hr style="border-color:black;">
 {% for post in site.research reversed %}
   {% if post.status == 'published' %}
@@ -19,7 +19,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<div><h2> Working Papers </h2> </div>
+<div><h1> Working Papers </h1> </div>
 <hr style="border-color:black;">
 {% for post in site.research reversed %}
   {% if post.status == 'working' %}

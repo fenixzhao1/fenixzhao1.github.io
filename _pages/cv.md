@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](CV_Shuchen Zhao.pdf)
-
-<embed src="CV_Shuchen Zhao.pdf" type="application/pdf" width="100%" height="600px" />
+[Shuchen Zhao CV](CV_Shuchen Zhao.pdf)
