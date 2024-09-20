@@ -1,5 +1,5 @@
 ---
-title: "Game Theory"
+title: "Industrial Organization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-Fall-IndustrialOrganization
