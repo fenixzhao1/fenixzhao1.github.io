@@ -1,17 +1,17 @@
 ---
-title: "Salience in Markets with Multiple Assets: An Experimental Study"
+title: "How Markets Shape Prices for Skewed Assets: Price Reversal in Multi-Assets Experimental Markets"
 collection: research
 permalink: /research/2023-10-27-SalienceMarket
 excerpt: ''
-date: 2023-10-27
+date: 2024-10-17
 venue: 'Available at SSRN'
 paperurl: 'https://ssrn.com/abstract=4606694'
 author: Shuchen Zhao
 status: working
 ---
 
-I empirically assess the salience theory across various asset market formats in the context of the growth-value puzzle. The salience theory predicts that investors tend to overprice assets with salient positive returns and underprice those with salient negative returns. In individual investment tasks, laboratory subjects trade with an automated investor rather than human counterparts. The salience theory aligns with observed behavior, where assets with salient positive returns see increased asking prices, and those with salient negative returns have reduced bid prices. However, market dynamics and feedback in call markets drive bids and asks closer to rational expectations. In the context of continuous double auction markets, subjects even exhibit aversion to relatively high probabilities of losses, a phenomenon at odds with the predictions of the salience theory.
+This paper explores the pricing of skewed assets in multi-asset markets where assets with both positive and negative skewness coexist, a context that remains understudied in the existing literature. Using a series of laboratory experiments, I examine whether the preference for positively skewed assets observed in individual decision-making settings extends to multi-assets market environments. I begin by demonstrating that traders strongly prefer positively skewed assets when making individual investment decisions in a traditional BDM (Becker et al. [1964]) task. However, when these assets are traded in continuous double auction markets, this preference is reversed: negatively skewed assets are consistently overvalued relative to positively skewed ones, contradicting individual-level biases. Further experiments decompose market complexities by adjusting the market size, trading frequency, and the number of assets. Simplifying market settings reduces mispricing, but none fully restore the preferences for positively skewed assets observed in individual contexts, revealing that these factors collectively drive the pricing reversals. These findings highlight how market complexity can reshape trader behavior and suggest that asset pricing is context-dependent.
 
-Keywords: Growth-value puzzle, Salience theory, Multi-assets markets, Laboratory experiments.
+Keywords: Skewed assets, Asset pricing, Behavioral finance, Experimental markets.
 
 JEL Classification: C90, D53, G10, G40
