@@ -1,5 +1,5 @@
 ---
-title: "Sequential Search with Ex Post Uncertainty"
+title: "Sequential search with ex post uncertainty"
 collection: research
 permalink: /research/2023-08-17-SequentialSearch
 excerpt: ''

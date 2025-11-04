@@ -1,5 +1,5 @@
 ---
-title: "When Are Mixed Equilibria Relevant?"
+title: "When are mixed equilibria relevant?"
 collection: research
 permalink: /research/2021-09-16-WhenAreMixedEquilibriaRelevant
 excerpt: ''

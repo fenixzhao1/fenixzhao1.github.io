@@ -1,5 +1,5 @@
 ---
-title: "On the Empirical Relevance of Correlated Equilibrium"
+title: "On the empirical relevance of correlated equilibrium"
 collection: research
 permalink: /research/2022-08-22-OntheEmpiricalRelevanceofCorrelatedEquilibrium
 excerpt: ''

@@ -1,5 +1,5 @@
 ---
-title: "Taking Turns in Continuous Time"
+title: "Taking turns in continuous time"
 collection: research
 permalink: /research/2021-09-25-TakingTurnsinContinuousTime
 excerpt: ''
