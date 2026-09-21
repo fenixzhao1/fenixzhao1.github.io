@@ -1,13 +1,18 @@
 ---
-title: "Pricing skewed assets in multi-asset experimental markets"
+title: "Pricing Skewed Assets in Multi-Asset Experimental Markets"
 collection: research
-permalink: /research/2025-10-25-SalienceMarket
+permalink: /research/2025-10-25-SkewedMarket
+redirect_from:
+  - /research/2025-10-25-SalienceMarket
 excerpt: ''
 date: 2025-10-25
-venue: 'Games and Economic Behavior'
+journal: 'Games and Economic Behavior'
+publication_details: '155 (2025), 107–148'
 paperurl: 'https://doi.org/10.1016/j.geb.2025.10.005'
+linklabel: 'Published version'
 author: Shuchen Zhao
 status: published
+display_order: 1
 ---
 
 Using a series of laboratory experiments, this paper examines whether preferences for positively skewed assets, commonly observed in individual decision-making, persist in market settings

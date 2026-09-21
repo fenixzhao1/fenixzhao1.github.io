@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Shuchen Zhao"
 title_separator          : "|"
 name                     : &name "Shuchen Zhao"
-description              : &description "Shuchen Zhao's Personal Academic Website"
+description              : &description "Academic website of Shuchen Zhao, an economist working in behavioral and experimental economics, game theory, behavioral finance, and market design"
 url                      : https://fenixzhao1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fenixzhao1/fenixzhao1.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shuchen Zhao"
   avatar           : "Avatar.jpg"
-  bio              : "Associate Professor at Institute for Advanced Economic Research, Dongbei University of Finance and Economics"
-  location         :
+  bio              : "Associate Professor, Institute for Advanced Economic Research, Dongbei University of Finance and Economics"
+  location         : "Dalian, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=cjz2wfQAAAAJ&hl=zh-CN"
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@fenix_shuchen"
+  twitter          : "fenix_shuchen"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

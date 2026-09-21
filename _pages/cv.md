@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](CV_Shuchen Zhao.pdf)
+<p class="cv-download"><a href="{{ '/files/Shuchen_Zhao_CV.pdf' | relative_url }}">Download current CV (PDF)</a></p>

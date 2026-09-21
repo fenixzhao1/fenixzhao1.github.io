@@ -1,12 +1,12 @@
 ---
-title: "Game Theory"
+title: "Advanced Microeconomics II"
 collection: teaching
 type: "Master/PhD course"
 level: graduate
-terms: "Spring 2024 and Spring 2025"
-display_order: 2
-permalink: /teaching/2024-Spring-GameTheory
+terms: "Spring 2026"
+display_order: 1
+permalink: /teaching/2026-Spring-AdvancedMicroeconomicsII
 venue: "Institute for Advanced Economic Research, Dongbei University of Finance and Economics"
-date: 2024-03-01
+date: 2026-03-01
 location: "Dalian, China"
 ---

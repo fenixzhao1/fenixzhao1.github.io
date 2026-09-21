@@ -1,0 +1,215 @@
+/* ==========================================================================
+   Site-specific academic profile styles
+   ========================================================================== */
+
+$academic-ink: #263746;
+$academic-muted: #5d6872;
+$academic-accent: #245276;
+$academic-rule: #d7dee4;
+
+/* Portrait profile image */
+div.author__avatar {
+  width: 54px;
+  height: 72px;
+
+  img.author__avatar {
+    display: block;
+    width: 54px;
+    height: 72px;
+    max-width: none;
+    padding: 0;
+    border: 1px solid $academic-rule;
+    border-radius: 4px;
+    object-fit: cover;
+    object-position: center top;
+  }
+
+  @include breakpoint($large) {
+    width: 100%;
+    height: auto;
+    margin-bottom: 0.85rem;
+
+    img.author__avatar {
+      width: 100%;
+      height: auto;
+      max-width: 190px;
+      padding: 0;
+      border: 1px solid $academic-rule;
+      border-radius: 5px;
+      box-shadow: 0 5px 16px rgba(22, 39, 52, 0.08);
+    }
+  }
+}
+
+@include breakpoint($large) {
+  .author__content {
+    line-height: 1.25;
+  }
+
+  .author__bio {
+    margin-top: 0.35rem;
+    margin-bottom: 1rem;
+    color: $academic-muted;
+    line-height: 1.45;
+  }
+}
+
+/* Home */
+.home-intro {
+  max-width: 54rem;
+  color: $academic-ink;
+  font-size: 0.98rem;
+  line-height: 1.7;
+
+  .home-intro__lead {
+    margin-bottom: 1rem;
+    font-family: $serif;
+    font-size: 1.08rem;
+    line-height: 1.6;
+  }
+
+  h2 {
+    margin-top: 1.75rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.35rem;
+    color: $academic-ink;
+    font-size: 1.15rem;
+    font-weight: 600;
+    border-bottom: 1px solid $academic-rule;
+  }
+
+  a {
+    color: $academic-accent;
+  }
+}
+
+.research-fields {
+  margin-top: 0;
+  padding-left: 1.2rem;
+
+  li {
+    margin-bottom: 0.3rem;
+  }
+
+  @include breakpoint($medium) {
+    columns: 2;
+    column-gap: 2.25rem;
+
+    li {
+      break-inside: avoid;
+    }
+  }
+}
+
+/* Research and teaching lists */
+.academic-profile-link,
+.teaching-intro {
+  margin-bottom: 1.6rem;
+  color: $academic-muted;
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.academic-profile-link a {
+  color: $academic-accent;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.academic-section + .academic-section {
+  margin-top: 2.4rem;
+}
+
+.academic-section__title {
+  margin: 0 0 1rem;
+  padding-bottom: 0.45rem;
+  color: $academic-ink;
+  font-size: 1.24rem;
+  font-weight: 600;
+  line-height: 1.3;
+  border-bottom: 1px solid $academic-rule;
+}
+
+.academic-list {
+  .list__item {
+    margin-bottom: 1.2rem;
+  }
+
+  .archive__item-title {
+    margin: 0 0 0.28rem;
+    font-family: $sans-serif;
+    font-size: 1.02rem;
+    font-weight: 600;
+    line-height: 1.4;
+
+    a {
+      color: $academic-ink;
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        color: $academic-accent;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+      }
+    }
+  }
+
+  .archive__item-authors,
+  .archive__item-meta,
+  .archive__item-links {
+    margin: 0.15rem 0 0;
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
+
+  .archive__item-authors {
+    color: $academic-ink;
+  }
+
+  .archive__item-meta {
+    color: $academic-muted;
+  }
+
+  .archive__item-links a {
+    color: $academic-accent;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+  }
+}
+
+.teaching-list {
+  .archive__item-title {
+    margin-bottom: 0.18rem;
+  }
+
+  .list__item {
+    margin-bottom: 0.95rem;
+  }
+}
+
+/* CV */
+.cv-download a {
+  display: inline-block;
+  padding: 0.58rem 0.85rem;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  background: $academic-accent;
+  border: 1px solid $academic-accent;
+  border-radius: 3px;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+    background: darken($academic-accent, 7%);
+  }
+}
