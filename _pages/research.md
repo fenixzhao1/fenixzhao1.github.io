@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <p class="academic-profile-link">You can also find my research on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
-{% endif %}
-
 {% include base_path %}
 
 <div class="academic-list research-list">

@@ -9,4 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<p class="cv-download"><a href="{{ '/files/Shuchen_Zhao_CV.pdf' | relative_url }}">Download current CV (PDF)</a></p>
+<iframe
+  class="cv-viewer"
+  src="{{ '/files/Shuchen_Zhao_CV.pdf' | relative_url }}#view=FitH"
+  title="Shuchen Zhao's curriculum vitae"
+  loading="eager">
+</iframe>
+
+<p class="cv-download">If the PDF does not display in your browser, <a href="{{ '/files/Shuchen_Zhao_CV.pdf' | relative_url }}">open or download the current CV</a>.</p>

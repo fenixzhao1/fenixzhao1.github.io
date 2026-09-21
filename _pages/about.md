@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <div class="home-intro">
-  <p class="home-intro__lead">I am an Associate Professor at the Institute for Advanced Economic Research, Dongbei University of Finance and Economics.</p>
+  <p>I am an Associate Professor at the Institute for Advanced Economic Research, Dongbei University of Finance and Economics. I received my Ph.D. in Economics from the University of California, Santa Cruz, in 2021.</p>
 
-  <p>My research examines how individual decisions become market, strategic, and organizational outcomes. I use laboratory experiments, guided by models from economics and finance, to study how timing, information, endowments, and market rules shape behavior. I received my Ph.D. in Economics from the University of California, Santa Cruz, in 2021.</p>
+  <p>My research examines how individual decisions become market, strategic, and organizational outcomes. I use laboratory experiments, guided by models from economics and finance, to study how timing, information, endowments, and market rules shape behavior.</p>
 
   <h2>Research Fields</h2>
 

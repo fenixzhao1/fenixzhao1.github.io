@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <div class="academic-list teaching-list">
-  <p class="teaching-intro">Courses taught as the instructor of record at the Institute for Advanced Economic Research, Dongbei University of Finance and Economics.</p>
-
   <section class="academic-section" aria-labelledby="graduate-courses-heading">
     <h2 id="graduate-courses-heading" class="academic-section__title">Graduate Courses</h2>
     {% assign graduate_courses = site.teaching | where: "level", "graduate" | sort: "display_order" %}
